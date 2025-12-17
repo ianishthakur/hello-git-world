@@ -64,7 +64,7 @@ git checkout -b your-name
 **Example:**
 
 ```bash
-git checkout -b ram-sharma
+git checkout -b yeti-the-coder
 ```
 
 ### Step 3: Open the HTML File
@@ -81,14 +81,14 @@ Open `index.html` in your code editor and find this section (around line 96):
 Replace `Anish` with **YOUR name**:
 
 ```html
-<span class="participant-name">Ram Sharma</span>
+<span class="participant-name">Yeti-The-Coder</span>
 ```
 
 ### Step 5: Stage and Commit Your Changes
 
 ```bash
 git add .
-git commit -m "Added my name - Ram Sharma"
+git commit -m "Added my name - Yeti-The-Coder"
 ```
 
 ### Step 6: Push Your Branch
@@ -100,7 +100,7 @@ git push origin your-branch-name
 **Example:**
 
 ```bash
-git push origin ram-sharma
+git push origin yeti-the-coder
 ```
 
 ### Step 7: Create a Pull Request
@@ -122,8 +122,8 @@ When multiple people change the **same line** of code, Git doesn't know which ch
 <<<<<<< HEAD
 <span class="participant-name">Anish</span>
 =======
-<span class="participant-name">Ram Sharma</span>
->>>>>>> ram-sharma
+<span class="participant-name">Yeti-The-Coder</span>
+>>>>>>> yeti-the-coder
 ```
 
 ### How to Read This

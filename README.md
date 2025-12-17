@@ -203,11 +203,11 @@ git push -u origin your-branch-name
 - **HECC**: Himalaya Electronics & Computer Club
 
 ---
-
+<!-- markdownlint-disable MD033 -->
 <div align="center">
 
 ### Made with ❤️ for B.Tech Students
 
-**Happy Learning! 🎉**
+## Happy Learning! 🎉
 
 </div>

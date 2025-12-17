@@ -1,0 +1,19 @@
+# OS Metadata
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.history
+
+# Temporary files
+*.log
+tmp/
+
+# If you decide to add Flutter/Node later
+build/
+node_modules/
+.dart_tool/

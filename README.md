@@ -204,6 +204,9 @@ git push -u origin your-branch-name
 
 ---
 
-| :---: |
-| ### Made with ❤️ for B.Tech Students |
-| ## Happy Learning! 🎉 |
+```html
+<div align="center">
+Made with ❤️ for B.Tech Students
+Happy Learning! 🎉
+</div>
+```
